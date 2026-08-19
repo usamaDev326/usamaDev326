@@ -1,27 +1,29 @@
 <div align="center">
 
-  <!-- Header Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,30,0&height=220&section=header&text=Mohammad%20Usama&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=Frontend%20%7C%20Web%20%26%20Mobile%20App%20Developer&descSize=18&descAlignY=68" width="100%" />
+  <!-- Header Section (Pure HTML Banner - Guaranteed to work) -->
+  <br/>
+  <h1>✨ MOHAMMAD USAMA ✨</h1>
+  <h3>🚀 Frontend & Web App Developer (2+ Years Experience)</h3>
+  <p><b>React JS | React Native | Next.js | TypeScript & Modern UI Frameworks</b></p>
+  
+  <p align="center">
+    <code>Building Scalable & High-Performance Modern Applications</code>
+  </p>
 
-  <!-- Animated Typing SVG -->
-  <a href="https://linkedin.com/in/dev-usama-qureshi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Frontend+%26+Web+App+Developer+(2%2B+Years);React.js+%7C+React+Native+%7C+Next.js;Building+Scalable+%26+High-Performance+Apps;Creating+Seamless+UI%2FUX+Experiences" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
+  <br/>
 
   <!-- Quick Social & Contact Badges -->
   <p align="center">
     <a href="mailto:mohammadusama3224@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://linkedin.com/in/dev-usama-qureshi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="tel:03053224205">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-1081C4?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-1081C4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
 </div>
@@ -84,21 +86,6 @@ Highly efficient and adaptable **Web App Developer** with **2+ years of professi
   * HTML, CSS & JavaScript
   * Bootstrap Responsive Web Design
   * Web Development with React, Redux & Hooks
-
----
-
-### 📊 GitHub Analytics & Contributions
-
-<div align="center">
-  <p>
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-  </p>
-</div>
 
 ---
 
