@@ -183,21 +183,24 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamaDev326&show_icons=true&hide_border=true" />
+  <!-- Alternative 1: Reliable Stats Mirror -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=usamaDev326&show_icons=true&hide_border=true&theme=radical" />
 
-<br />
+  <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaDev326&layout=compact&hide_border=true&langs_count=8" />
+  <!-- Alternative 2: Top Languages -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=usamaDev326&layout=compact&hide_border=true&theme=radical" />
 
 </div>
 
 ---
 
-## 📅 GitHub Contributions
+## 📅 GitHub Activity Chart
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=usamaDev326&limit=5&theme=default&combine_all_yearly_contributions=true" />
+  <!-- Alternative 3: Clean Isometric/Activity Graph (No rate limits) -->
+  <img src="https://ghchart.rshah.org/usamaDev326" alt="Usama's Github Contributions" />
 
 </div>
 
