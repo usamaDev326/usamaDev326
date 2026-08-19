@@ -1,94 +1,298 @@
 <div align="center">
 
-  <!-- Header Section (Pure HTML Banner - Guaranteed to work) -->
-  <br/>
-  <h1>✨ MOHAMMAD USAMA ✨</h1>
-  <h3>🚀 Frontend & Web App Developer (2+ Years Experience)</h3>
-  <p><b>React JS | React Native | Next.js | TypeScript & Modern UI Frameworks</b></p>
-  
-  <p align="center">
-    <code>Building Scalable & High-Performance Modern Applications</code>
-  </p>
+# Hi, I'm Mohammad Usama 👋
 
-  <br/>
+### Frontend & Full-Stack Web Developer
 
-  <!-- Quick Social & Contact Badges -->
-  <p align="center">
-    <a href="mailto:mohammadusama3224@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com/in/dev-usama-qureshi">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="tel:03053224205">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-1081C4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  </p>
+I build **modern, scalable and high-performance web & mobile applications** with a strong focus on clean UI, performance and real-world business solutions.
+
+<p>
+  <a href="https://github.com/usamaDev326">
+    <img src="https://img.shields.io/badge/GitHub-usamaDev326-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/dev-usama-qureshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadusama3224@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=usamaDev326&style=flat-square&color=blue" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Highly efficient and adaptable **Web App Developer** with **2+ years of professional experience** in building modern web and cross-platform mobile applications using **React JS**, **Next.js**, and **React Native**. Successfully progressed from intern to mid-level developer through strong performance and continuous learning. Skilled in delivering high-quality, scalable solutions with a strong focus on performance, usability, and clean code.
+I'm a **Web & Mobile App Developer** with **3+ years of professional experience**, specializing in building production-ready applications using React, Next.js and React Native.
 
----
+I enjoy turning complex business requirements into **clean, intuitive and scalable software**.
 
-### 🛠️ Tech Stack & Skillset
-
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Core Frontend** | ![React](https://img.shields.io/badge/-React_JS-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Styling & UI/UX** | ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white) ![PrimeReact](https://img.shields.io/badge/-PrimeReact-06B6D4?style=flat-square&logo=primereact&logoColor=white) ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white) ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **State Management** | ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat-square&logo=react&logoColor=black) ![React Hooks](https://img.shields.io/badge/-React_Hooks-61DAFB?style=flat-square&logo=react&logoColor=black) |
-| **APIs & Tooling** | ![REST API](https://img.shields.io/badge/-REST_APIs-0055DA?style=flat-square) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat-square&logo=insomnia&logoColor=white) ![Debugging](https://img.shields.io/badge/-Testing_%26_Debugging-00C853?style=flat-square) |
-| **Version Control** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+* 🚀 Building modern web applications with **React.js & Next.js**
+* 📱 Developing cross-platform mobile applications with **React Native**
+* 🎨 Creating responsive and user-friendly interfaces
+* 🔌 Integrating REST APIs and backend services
+* ⚡ Focused on performance, scalability and maintainable code
+* 🧩 Experienced with ERP, POS, DMS, Inventory and business management systems
+* 🤝 Comfortable working with designers, backend developers and product teams
 
 ---
 
-### 💼 Professional Work Experience
+## 🛠️ Tech Stack
 
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,jquery" />
+</p>
+
+### UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
+</p>
+
+**Also experienced with:** Material UI · Ant Design · PrimeReact
+
+### State Management & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux,git,github" />
+</p>
+
+**State & Architecture:** Redux · Context API · React Hooks
+
+### APIs & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+</p>
+
+**Experienced with:** REST APIs · API Integration · Authentication · Debugging · Postman · Insomnia
+
+---
+
+## 💼 Professional Experience
+
+### Web App Developer — Dynamics Technology System
+
+**Oct 2023 — Present · Karachi, Pakistan**
+
+* Develop and maintain production-grade web applications using **React.js and React Native**.
+* Build responsive and reusable UI components for complex business applications.
+* Integrate REST APIs and implement frontend business workflows.
+* Work closely with UI/UX designers and backend developers.
+* Improve application performance, usability and maintainability.
+* Participate in code reviews, feature planning and technical problem solving.
+
+### Web Developer — Technoties Solutions
+
+**Nov 2022 — Sep 2023 · Karachi, Pakistan**
+
+* Developed web applications for multiple client projects.
+* Built responsive and reusable frontend components.
+* Integrated backend APIs and implemented business requirements.
+* Collaborated with designers and backend developers.
+* Focused on clean code, responsive layouts and application performance.
+
+---
+
+## 🚀 Featured Projects
+
+### 🚘 Dealer Management System
+
+**React.js · React Native · REST APIs**
+
+A comprehensive automotive dealer management platform covering multiple business operations.
+
+**Key areas include:**
+
+* Sales & Purchase
+* Parts & Inventory
+* Workshop Management
+* Job Cards & Estimates
+* Warranty Management
+* Customer Management
+* Dealer Performance
+* Reports & Dashboards
+
+---
+
+### 💳 Point of Sale System
+
+**React.js · REST APIs**
+
+A business-focused POS solution for managing:
+
+* Sales transactions
+* Customers
+* Products & inventory
+* Payments
+* Invoices
+* Tax management
+* Reporting
+
+---
+
+### 📦 Inventory & Management Systems
+
+**React.js · REST APIs**
+
+Business management applications covering inventory, purchasing, sales, stock movements and related workflows.
+
+---
+
+### 📱 Attendance Mobile Application
+
+**React Native**
+
+Cross-platform mobile application for attendance management with a focus on simple workflows and responsive mobile UX.
+
+---
+
+### ⚙️ MachinoWeb Platform
+
+**.NET Razor Pages**
+
+Worked on a web-based business platform involving structured workflows and management features.
+
+---
+
+### 🛒 E-Commerce Platform
+
+**React.js · PHP**
+
+Responsive e-commerce application with product management, shopping workflows and customer-facing interfaces.
+
+---
+
+### 🎓 Student Management System
+
+**React.js · .NET**
+
+Management platform for handling student-related information and administrative workflows.
+
+---
+
+## 🧠 What I Like Building
+
+```text
+Business Applications
+        ↓
+Clean UI / UX
+        ↓
+Reusable Components
+        ↓
+API Integration
+        ↓
+Scalable Architecture
+        ↓
+Performance Optimization
+        ↓
+Production-Ready Software
 ```
-💼 Web App Developer | Dynamics Technology System - Karachi
-📅 Oct 2023 - Present
-• Developed highly responsive web and cross-platform mobile applications using React JS & React Native.
-• Collaborated effectively with UI/UX designers & backend developers to deliver seamless user interfaces.
-• Optimized application performance & streamlined dev processes for cross-platform compatibility.
-• Contributed to project planning, conducted code reviews, and mentored junior developers.
 
-💼 Web Developer | Technoties Solutions - Karachi
-📅 Nov 2022 - Sep 2023
-• Developed robust web solutions for multiple client projects with high-performance UI.
-• Collaborated with designers and backend teams to ensure project alignment and successful delivery.
-• Followed industry best coding practices to maintain code quality and optimized performance.
+I particularly enjoy working on **complex business applications** where multiple modules, workflows, permissions and API integrations need to work together as one consistent system.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=usamaDev326&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaDev326&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=usamaDev326&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaDev326&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🎓 Education
+
+### BS Computer Science
+
+**Federal Urdu University — Karachi**
+
+**2018 — 2022**
+
+---
+
+## 📜 Certifications
+
+* HTML, CSS & JavaScript
+* Bootstrap Responsive Web Design
+* Web Development with React, Redux & Hooks
+
+---
+
+## 🎯 Current Focus
+
+```text
+React.js
+   +
+Next.js
+   +
+React Native
+   +
+Modern UI/UX
+   +
+Scalable Business Applications
 ```
 
----
-
-### 🚀 Key Projects Highlights
-
-* 🚘 **Dealer Management System (DMS) for Changan Motors** *(React JS & React Native)*
-* 💳 **Point of Sale (POS) System** *(React JS)*
-* 📦 **Inventory & Human Resource Management Systems** *(React JS)*
-* 📱 **Attendance Mobile App** *(React Native)*
-* ⚙️ **MachinoWeb Platform** *(.NET Razor Pages)*
-* 🛒 **E-Commerce Store** *(React JS & PHP)*
-* 🎓 **Student Management System** *(React JS & .NET)*
+Currently focused on improving application architecture, performance, reusable component systems and building better solutions for complex business workflows.
 
 ---
 
-### 🎓 Education & Certifications
+## 🤝 Let's Connect
 
-* 🎓 **BS Computer Science** — Federal Urdu University Karachi *(2018 - 2022)*
-* 📜 **Certifications:**
-  * HTML, CSS & JavaScript
-  * Bootstrap Responsive Web Design
-  * Web Development with React, Redux & Hooks
+I'm always interested in discussing:
+
+* 🚀 Interesting software projects
+* 💡 Product ideas
+* ⚛️ React / Next.js development
+* 📱 React Native applications
+* 🏢 Business & ERP systems
+* 🤝 Collaboration opportunities
+
+<div align="center">
+
+<a href="mailto:mohammadusama3224@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mohammadusama3224%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/dev-usama-qureshi">
+  <img src="https://img.shields.io/badge/LinkedIn-dev--usama--qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Designed & Developed with ❤️ by <b>Mohammad Usama</b></sub>
+
+### Thanks for visiting my profile! 👋
+
+**Building useful software, one feature at a time.**
+
 </div>
