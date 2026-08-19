@@ -2,9 +2,9 @@
 
 # Hi, I'm Mohammad Usama 👋
 
-### Frontend & Full-Stack Web Developer
+### Frontend & Web App Developer
 
-I build **modern, scalable and high-performance web & mobile applications** with a strong focus on clean UI, performance and real-world business solutions.
+I build **modern, scalable and high-performance web & mobile applications** with a focus on clean UI, performance and real-world business solutions.
 
 <p>
   <a href="https://github.com/usamaDev326">
@@ -18,7 +18,7 @@ I build **modern, scalable and high-performance web & mobile applications** with
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=usamaDev326&style=flat-square&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=usamaDev326&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -26,7 +26,7 @@ I build **modern, scalable and high-performance web & mobile applications** with
 
 ## 👨‍💻 About Me
 
-I'm a **Web & Mobile App Developer** with **3+ years of professional experience**, specializing in building production-ready applications using React, Next.js and React Native.
+I'm a **Web & Mobile App Developer** with **3+ years of professional experience**, specializing in building production-ready applications using **React.js, Next.js and React Native**.
 
 I enjoy turning complex business requirements into **clean, intuitive and scalable software**.
 
@@ -48,29 +48,25 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,jquery" />
 </p>
 
-### UI & Styling
+### Styling & UI
 
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
 </p>
 
-**Also experienced with:** Material UI · Ant Design · PrimeReact
-
-### State Management & Development
-
 <p>
-  <img src="https://skillicons.dev/icons?i=redux,git,github" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeReact-06B6D4?style=flat-square&logo=primereact&logoColor=white" />
 </p>
 
-**State & Architecture:** Redux · Context API · React Hooks
-
-### APIs & Tools
+### State Management & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=redux,git,github,postman" />
 </p>
 
-**Experienced with:** REST APIs · API Integration · Authentication · Debugging · Postman · Insomnia
+**Also experienced with:** Context API · React Hooks · REST APIs · API Integration · Authentication · Debugging · Insomnia
 
 ---
 
@@ -80,10 +76,10 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 
 **Oct 2023 — Present · Karachi, Pakistan**
 
-* Develop and maintain production-grade web applications using **React.js and React Native**.
+* Develop production-grade web applications using **React.js and React Native**.
 * Build responsive and reusable UI components for complex business applications.
-* Integrate REST APIs and implement frontend business workflows.
-* Work closely with UI/UX designers and backend developers.
+* Integrate REST APIs and implement complete business workflows.
+* Collaborate with UI/UX designers and backend developers.
 * Improve application performance, usability and maintainability.
 * Participate in code reviews, feature planning and technical problem solving.
 
@@ -105,18 +101,9 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 
 **React.js · React Native · REST APIs**
 
-A comprehensive automotive dealer management platform covering multiple business operations.
+A comprehensive automotive dealer management platform covering:
 
-**Key areas include:**
-
-* Sales & Purchase
-* Parts & Inventory
-* Workshop Management
-* Job Cards & Estimates
-* Warranty Management
-* Customer Management
-* Dealer Performance
-* Reports & Dashboards
+`Sales` · `Purchase` · `Parts` · `Inventory` · `Workshop` · `Job Cards` · `Warranty` · `Customers` · `Reports` · `Dashboards`
 
 ---
 
@@ -124,15 +111,9 @@ A comprehensive automotive dealer management platform covering multiple business
 
 **React.js · REST APIs**
 
-A business-focused POS solution for managing:
+A business-focused POS solution covering:
 
-* Sales transactions
-* Customers
-* Products & inventory
-* Payments
-* Invoices
-* Tax management
-* Reporting
+`Sales` · `Products` · `Inventory` · `Customers` · `Payments` · `Invoices` · `Taxes` · `Reports`
 
 ---
 
@@ -148,7 +129,7 @@ Business management applications covering inventory, purchasing, sales, stock mo
 
 **React Native**
 
-Cross-platform mobile application for attendance management with a focus on simple workflows and responsive mobile UX.
+Cross-platform mobile application focused on attendance management and simple, responsive mobile workflows.
 
 ---
 
@@ -172,26 +153,26 @@ Responsive e-commerce application with product management, shopping workflows an
 
 **React.js · .NET**
 
-Management platform for handling student-related information and administrative workflows.
+Management platform for handling student information and administrative workflows.
 
 ---
 
 ## 🧠 What I Like Building
 
 ```text
-Business Applications
-        ↓
-Clean UI / UX
-        ↓
-Reusable Components
-        ↓
-API Integration
-        ↓
-Scalable Architecture
-        ↓
-Performance Optimization
-        ↓
-Production-Ready Software
+Complex Business Requirements
+            ↓
+      Clean UI / UX
+            ↓
+    Reusable Components
+            ↓
+       API Integration
+            ↓
+   Scalable Architecture
+            ↓
+ Performance Optimization
+            ↓
+   Production-Ready Apps
 ```
 
 I particularly enjoy working on **complex business applications** where multiple modules, workflows, permissions and API integrations need to work together as one consistent system.
@@ -202,7 +183,7 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=usamaDev326&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=usamaDev326&show_icons=true&hide_border=true&rank_icon=github" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamaDev326&layout=compact&hide_border=true&langs_count=8" />
 
@@ -212,17 +193,17 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=usamaDev326&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=usamaDev326&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📅 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaDev326&hide_border=true&area=true" width="95%" />
+<img src="https://github-contributor-stats.vercel.app/api?username=usamaDev326&limit=5&theme=default&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -248,17 +229,11 @@ I particularly enjoy working on **complex business applications** where multiple
 
 ## 🎯 Current Focus
 
-```text
-React.js
-   +
-Next.js
-   +
-React Native
-   +
-Modern UI/UX
-   +
-Scalable Business Applications
-```
+<p align="center">
+
+`React.js`   `Next.js`   `React Native`   `Modern UI/UX`   `Scalable Applications`
+
+</p>
 
 Currently focused on improving application architecture, performance, reusable component systems and building better solutions for complex business workflows.
 
@@ -278,11 +253,15 @@ I'm always interested in discussing:
 <div align="center">
 
 <a href="mailto:mohammadusama3224@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mohammadusama3224%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/dev-usama-qureshi">
-  <img src="https://img.shields.io/badge/LinkedIn-dev--usama--qureshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/usamaDev326">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
