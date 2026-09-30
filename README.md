@@ -26,7 +26,7 @@
 
 <br />
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> About Me
 
 I'm a **Web & Mobile App Developer** with **3+ years of professional experience**, specializing in building production-ready applications using **React.js, Next.js and React Native**.
 
@@ -37,19 +37,19 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 <td width="50%" valign="top">
 
 **What I do**
-- 🚀 Modern web apps with **React.js & Next.js**
-- 📱 Cross-platform mobile apps with **React Native**
-- 🎨 Responsive, user-friendly interfaces
-- 🔌 REST API & backend integration
+- Modern web apps with **React.js & Next.js**
+- Cross-platform mobile apps with **React Native**
+- Responsive, user-friendly interfaces
+- REST API & backend integration
 
 </td>
 <td width="50%" valign="top">
 
 **How I work**
-- ⚡ Performance, scalability, maintainable code
-- 🧩 ERP, POS, DMS, Inventory & business systems
-- 🤝 Close collaboration with design & backend teams
-- 🔍 Code reviews & thoughtful architecture
+- Performance, scalability, maintainable code
+- ERP, POS, DMS, Inventory & business systems
+- Close collaboration with design & backend teams
+- Code reviews & thoughtful architecture
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 
 <br />
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Tech Stack
 
 <table>
 <tr>
@@ -93,11 +93,11 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 
 <br />
 
-## 💼 Professional Experience
+## <img src="https://api.iconify.design/lucide:briefcase.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Professional Experience
 
 <table>
 <tr>
-<td width="8%" align="center">🏢</td>
+<td width="8%" align="center"><img src="https://api.iconify.design/lucide:building-2.svg?color=%2352514e" width="26" height="26" /></td>
 <td>
 
 **Web App Developer** · Dynamics Technology System
@@ -113,7 +113,7 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 </td>
 </tr>
 <tr>
-<td width="8%" align="center">🏢</td>
+<td width="8%" align="center"><img src="https://api.iconify.design/lucide:building-2.svg?color=%2352514e" width="26" height="26" /></td>
 <td>
 
 **Web Developer** · Technoties Solutions
@@ -131,13 +131,13 @@ I enjoy turning complex business requirements into **clean, intuitive and scalab
 
 <br />
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚘 Dealer Management System
+### Dealer Management System
 **React.js · React Native · REST APIs**
 
 A comprehensive automotive dealer management platform.
@@ -147,7 +147,7 @@ A comprehensive automotive dealer management platform.
 </td>
 <td width="50%" valign="top">
 
-### 💳 Point of Sale System
+### Point of Sale System — `dtsPOS`
 **React.js · REST APIs**
 
 A business-focused POS solution end to end.
@@ -159,60 +159,70 @@ A business-focused POS solution end to end.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Inventory & Management Systems
-**React.js · REST APIs**
+### Aqua Pure — `aquaPure`
+**TypeScript · React.js**
 
-Business management apps covering inventory, purchasing, sales, stock movements and related workflows.
+Web-based business management system for a small bottled water manufacturing and distribution company.
 
 </td>
 <td width="50%" valign="top">
 
-### 📱 Attendance Mobile Application
+### Admin Dashboard — `U-Dev-Dashboard-React`
+**React.js**
+
+A reusable admin dashboard shell — layout, navigation and widget patterns reused across several client projects.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### E-Commerce Platform — `KWTRO_Dts`
+**React.js**
+
+E-commerce website with product management, shopping workflows and customer-facing interfaces.
+
+</td>
+<td width="50%" valign="top">
+
+### Company Website — `DTS-Website`
+**HTML · CSS**
+
+Public website for Dynamics Technology System.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Attendance Mobile Application
 **React Native**
 
 Cross-platform mobile app focused on attendance management and simple, responsive mobile workflows.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### ⚙️ MachinoWeb Platform
-**.NET Razor Pages**
-
-A web-based business platform with structured workflows and management features.
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Platform
-**React.js · PHP**
-
-Responsive e-commerce app with product management, shopping workflows and customer-facing interfaces.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Student Management System
+### Student Management System
 **React.js · .NET**
 
 Platform for handling student information and administrative workflows.
 
 </td>
-<td width="50%" valign="top">
-
-### 🎯 More in progress
-Always building something new — check my pinned repos for the latest.
-
-</td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/usamaDev326?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
 <br />
 
-## 🧠 What I Like Building
+## <img src="https://api.iconify.design/lucide:brain.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> What I Like Building
 
 <div align="center">
 
@@ -238,7 +248,7 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <br />
 
-## 📊 GitHub Analytics
+## <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> GitHub Analytics
 
 <div align="center">
 
@@ -257,23 +267,23 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <br />
 
-## 📅 GitHub Activity Chart
+## <img src="https://api.iconify.design/lucide:calendar-days.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> GitHub Activity Chart
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2a78d6/usamaDev326" alt="Usama's Github Contributions" width="100%" />
+<img src="https://ghchart.rshah.org/usamaDev326" alt="Usama's Github Contributions" width="100%" />
 
 </div>
 
 <br />
 
-## 🎓 Education & Certifications
+## <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Education & Certifications
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎓 Education**
+**Education**
 
 **BS Computer Science**
 <br />Federal Urdu University — Karachi
@@ -282,7 +292,7 @@ I particularly enjoy working on **complex business applications** where multiple
 </td>
 <td width="50%" valign="top">
 
-**📜 Certifications**
+**Certifications**
 
 - HTML, CSS & JavaScript
 - Bootstrap Responsive Web Design
@@ -294,7 +304,7 @@ I particularly enjoy working on **complex business applications** where multiple
 
 <br />
 
-## 🎯 Current Focus
+## <img src="https://api.iconify.design/lucide:target.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Current Focus
 
 <div align="center">
 
@@ -320,20 +330,20 @@ Currently focused on improving application architecture, performance, reusable c
 
 <br />
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/lucide:users.svg?color=%232a78d6" width="22" height="22" align="absmiddle" /> Let's Connect
 
 I'm always interested in discussing:
 
 <table>
 <tr>
-<td>🚀 Interesting software projects</td>
-<td>💡 Product ideas</td>
-<td>⚛️ React / Next.js development</td>
+<td>Interesting software projects</td>
+<td>Product ideas</td>
+<td>React / Next.js development</td>
 </tr>
 <tr>
-<td>📱 React Native applications</td>
-<td>🏢 Business & ERP systems</td>
-<td>🤝 Collaboration opportunities</td>
+<td>React Native applications</td>
+<td>Business & ERP systems</td>
+<td>Collaboration opportunities</td>
 </tr>
 </table>
 
@@ -356,5 +366,5 @@ I'm always interested in discussing:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 <div align="center">
-<sub><b>Thanks for visiting my profile! Building useful software, one feature at a time. 👋</b></sub>
+<sub><b>Thanks for visiting my profile! Building useful software, one feature at a time.</b></sub>
 </div>
