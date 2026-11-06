@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" fill="none" role="img">
+<title>Professional experience</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="460" rx="22"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="460" fill="url(#bg)"/>
+  <rect width="1200" height="460" fill="url(#dots)"/>
+  <circle cx="72" cy="0" r="240" fill="#7C3AED" opacity=".26" filter="url(#blur)"/><circle cx="1152" cy="460" r="240" fill="#0891B2" opacity=".22" filter="url(#blur)"/>
+  <rect x="55" y="72" width="2" height="210" fill="url(#brandV)" opacity=".7"/>
+    <circle cx="56" cy="72" r="9" fill="none" stroke="#34D399" stroke-width="2"><animate attributeName="r" values="9;20" dur="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="56" cy="72" r="9" fill="#0B1124" stroke="#34D399" stroke-width="3"/>
+    <circle cx="56" cy="72" r="3.5" fill="#34D399"/>
+    <rect x="96" y="32" width="1072" height="186" rx="18" fill="#0F1733" fill-opacity=".8" stroke="#34D399" stroke-opacity="0.4"/>
+    <text x="124" y="80" font-size="24" font-weight="700" fill="#EEF1FA">Web App Developer</text>
+    <text x="124" y="108" font-size="16" font-weight="600" fill="url(#brand)">Dynamics Technology System</text>
+    <rect x="955.6" y="56" width="188.4" height="30" rx="15" fill="#34D399" fill-opacity=".1" stroke="#34D399" stroke-opacity=".4"/>
+    <circle cx="972.6" cy="71" r="4" fill="#34D399"/>
+    <text x="987.6" y="75.5" class="mono" font-size="13" fill="#EEF1FA">OCT 2023 — PRESENT</text>
+    <text x="1144" y="108" text-anchor="end" font-size="13" fill="#6B7699">3 yrs 2 mos · Karachi, Pakistan</text>
+    <path d="M124 130H1144" stroke="#1F2B52"/>
+    <circle cx="133" cy="159" r="10" fill="#34D399" fill-opacity=".12"/><g transform="translate(126 152) scale(0.5833333333333334)" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="152" y="164" font-size="15" fill="#A6AFCF">Production-grade apps with React.js &amp; React Native</text><circle cx="649" cy="159" r="10" fill="#34D399" fill-opacity=".12"/><g transform="translate(642 152) scale(0.5833333333333334)" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="668" y="164" font-size="15" fill="#A6AFCF">Reusable UI for complex business applications</text><circle cx="133" cy="191" r="10" fill="#34D399" fill-opacity=".12"/><g transform="translate(126 184) scale(0.5833333333333334)" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="152" y="196" font-size="15" fill="#A6AFCF">REST APIs wired into complete business workflows</text><circle cx="649" cy="191" r="10" fill="#34D399" fill-opacity=".12"/><g transform="translate(642 184) scale(0.5833333333333334)" fill="none" stroke="#34D399" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="668" y="196" font-size="15" fill="#A6AFCF">Performance, usability &amp; maintainability</text>
+    
+    <circle cx="56" cy="282" r="9" fill="#0B1124" stroke="#8B5CF6" stroke-width="3"/>
+    
+    <rect x="96" y="242" width="1072" height="186" rx="18" fill="#0F1733" fill-opacity=".8" stroke="#8B5CF6" stroke-opacity="0.22"/>
+    <text x="124" y="290" font-size="24" font-weight="700" fill="#EEF1FA">Web Developer</text>
+    <text x="124" y="318" font-size="16" font-weight="600" fill="url(#brand)">Technoties Solutions</text>
+    <rect x="963.8" y="266" width="180.2" height="30" rx="15" fill="#8B5CF6" fill-opacity=".1" stroke="#8B5CF6" stroke-opacity=".4"/>
+    
+    <text x="979.8" y="285.5" class="mono" font-size="13" fill="#EEF1FA">NOV 2022 — SEP 2023</text>
+    <text x="1144" y="318" text-anchor="end" font-size="13" fill="#6B7699">11 mos · Karachi, Pakistan</text>
+    <path d="M124 340H1144" stroke="#1F2B52"/>
+    <circle cx="133" cy="369" r="10" fill="#8B5CF6" fill-opacity=".12"/><g transform="translate(126 362) scale(0.5833333333333334)" fill="none" stroke="#8B5CF6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="152" y="374" font-size="15" fill="#A6AFCF">Web applications for multiple client projects</text><circle cx="649" cy="369" r="10" fill="#8B5CF6" fill-opacity=".12"/><g transform="translate(642 362) scale(0.5833333333333334)" fill="none" stroke="#8B5CF6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="668" y="374" font-size="15" fill="#A6AFCF">Responsive, reusable frontend components</text><circle cx="133" cy="401" r="10" fill="#8B5CF6" fill-opacity=".12"/><g transform="translate(126 394) scale(0.5833333333333334)" fill="none" stroke="#8B5CF6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="152" y="406" font-size="15" fill="#A6AFCF">Backend API integration &amp; business requirements</text><circle cx="649" cy="401" r="10" fill="#8B5CF6" fill-opacity=".12"/><g transform="translate(642 394) scale(0.5833333333333334)" fill="none" stroke="#8B5CF6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g><text x="668" y="406" font-size="15" fill="#A6AFCF">Clean code, responsive layouts &amp; performance</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="458.5" rx="21.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>

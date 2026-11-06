@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" fill="none" role="img">
+<title>Company Website</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="600" height="340" rx="20"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#818CF8"/><stop offset="1" stop-color="#818CF8" stop-opacity="0"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<g clip-path="url(#clip)">
+  <rect width="600" height="340" fill="url(#bg)"/>
+  <rect width="600" height="340" fill="url(#dots)"/>
+  
+  
+  <circle cx="540" cy="0" r="170" fill="#818CF8" opacity=".16" filter="url(#blur)"/>
+  <rect width="600" height="4" fill="url(#accent)"/>
+  <rect x="32" y="34" width="56" height="56" rx="16" fill="#818CF8" fill-opacity=".12" stroke="#818CF8" stroke-opacity=".45"/>
+  <g transform="translate(46 48) scale(1.1666666666666667)" fill="none" stroke="#818CF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20M2 12h20"/></g>
+  <text x="106" y="64" font-size="22" font-weight="700" fill="#EEF1FA">Company Website</text>
+  <g transform="translate(106 78) scale(0.5833333333333334)" fill="none" stroke="#6B7699" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></g><text x="126" y="90" class="mono" font-size="13" fill="#6B7699">usamaDev326/DTS-Website</text>
+  <rect x="497.8" y="34" width="70.19999999999999" height="24" rx="12" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".35"/>
+  <text x="532.9" y="50" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#818CF8">WEBSITE</text>
+  <text x="32" y="140" font-size="16" fill="#A6AFCF">Public website for Dynamics Technology System.</text>
+  <g transform="translate(32 166)">
+    <rect width="132" height="26" rx="13" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92">Responsive layout</text>
+  </g><g transform="translate(171 166)">
+    <rect width="121" height="26" rx="13" fill="#818CF8" fill-opacity=".1" stroke="#818CF8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92">Company profile</text>
+  </g>
+  <path d="M32 276H568" stroke="#1F2B52"/>
+  <g transform="translate(32 292)">
+    <rect width="55" height="26" rx="13" fill="#94A3B8" fill-opacity=".1" stroke="#94A3B8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92" class="mono">HTML</text>
+  </g><g transform="translate(94 292)">
+    <rect width="48" height="26" rx="13" fill="#94A3B8" fill-opacity=".1" stroke="#94A3B8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92" class="mono">CSS</text>
+  </g>
+  <text x="568" y="310" text-anchor="end" class="mono" font-size="13" fill="#818CF8">view repo →</text>
+</g>
+<rect x=".75" y=".75" width="598.5" height="338.5" rx="19.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>

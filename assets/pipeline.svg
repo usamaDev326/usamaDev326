@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" fill="none" role="img">
+<title>What I like building</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="250" rx="22"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="flow" x1="100" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="250" fill="url(#bg)"/>
+  <rect width="1200" height="250" fill="url(#dots)"/>
+  <circle cx="72" cy="0" r="225" fill="#7C3AED" opacity=".26" filter="url(#blur)"/><circle cx="1152" cy="250" r="225" fill="#0891B2" opacity=".22" filter="url(#blur)"/>
+  
+  <text x="32" y="38" class="mono" font-size="13" fill="#6B7699">// requirement → production</text>
+  <path d="M100 124H1100" stroke="#1F2B52" stroke-width="2"/>
+  <path d="M100 124H1100" stroke="url(#flow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="160 3000">
+    <animate attributeName="stroke-dashoffset" from="160" to="-1000" dur="7s" repeatCount="indefinite"/>
+  </path>
+  
+    <circle cx="100" cy="124" r="30" fill="#A78BFA" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="0.00s" repeatCount="indefinite"/></circle>
+    <circle cx="100" cy="124" r="30" fill="#0F1733" stroke="#A78BFA" stroke-width="1.8"/>
+    <g transform="translate(88 112) scale(1)" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83Z"/><path d="m22 17.65-9.17 4.16a2 2 0 0 1-1.66 0L2 17.65M22 12.65l-9.17 4.16a2 2 0 0 1-1.66 0L2 12.65"/></g>
+    <text x="100" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">01</text>
+    <text x="100" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Complex</text>
+    <text x="100" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">requirements</text>
+    <circle cx="266.66666666666663" cy="124" r="30" fill="#8F98FB" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="1.01s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="1.01s" repeatCount="indefinite"/></circle>
+    <circle cx="266.66666666666663" cy="124" r="30" fill="#0F1733" stroke="#8F98FB" stroke-width="1.8"/>
+    <g transform="translate(254.66666666666663 112) scale(1)" fill="none" stroke="#8F98FB" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M9 21V9"/></g>
+    <text x="266.66666666666663" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">02</text>
+    <text x="266.66666666666663" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Clean</text>
+    <text x="266.66666666666663" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">UI / UX</text>
+    <circle cx="433.3333333333333" cy="124" r="30" fill="#7AA7FA" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="2.01s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="2.01s" repeatCount="indefinite"/></circle>
+    <circle cx="433.3333333333333" cy="124" r="30" fill="#0F1733" stroke="#7AA7FA" stroke-width="1.8"/>
+    <g transform="translate(421.3333333333333 112) scale(1)" fill="none" stroke="#7AA7FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/></g>
+    <text x="433.3333333333333" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">03</text>
+    <text x="433.3333333333333" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Reusable</text>
+    <text x="433.3333333333333" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">components</text>
+    <circle cx="600" cy="124" r="30" fill="#60A5FA" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="3.02s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="3.02s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="124" r="30" fill="#0F1733" stroke="#60A5FA" stroke-width="1.8"/>
+    <g transform="translate(588 112) scale(1)" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g>
+    <text x="600" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">04</text>
+    <text x="600" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">API</text>
+    <text x="600" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">integration</text>
+    <circle cx="766.6666666666666" cy="124" r="30" fill="#4FB8F5" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="4.02s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="4.02s" repeatCount="indefinite"/></circle>
+    <circle cx="766.6666666666666" cy="124" r="30" fill="#0F1733" stroke="#4FB8F5" stroke-width="1.8"/>
+    <g transform="translate(754.6666666666666 112) scale(1)" fill="none" stroke="#4FB8F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4M8 6h.01M12 6h.01M16 6h.01M8 10h.01M12 10h.01M16 10h.01M8 14h.01M12 14h.01M16 14h.01"/></g>
+    <text x="766.6666666666666" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">05</text>
+    <text x="766.6666666666666" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Scalable</text>
+    <text x="766.6666666666666" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">architecture</text>
+    <circle cx="933.3333333333333" cy="124" r="30" fill="#3CC8EF" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="5.03s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="5.03s" repeatCount="indefinite"/></circle>
+    <circle cx="933.3333333333333" cy="124" r="30" fill="#0F1733" stroke="#3CC8EF" stroke-width="1.8"/>
+    <g transform="translate(921.3333333333333 112) scale(1)" fill="none" stroke="#3CC8EF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/></g>
+    <text x="933.3333333333333" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">06</text>
+    <text x="933.3333333333333" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Performance</text>
+    <text x="933.3333333333333" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">optimization</text>
+    <circle cx="1100" cy="124" r="30" fill="#22D3EE" opacity="0"><animate attributeName="opacity" values="0;.4;0;0" keyTimes="0;.05;.2;1" dur="7s" begin="6.03s" repeatCount="indefinite"/><animate attributeName="r" values="30;46;30;30" keyTimes="0;.05;.2;1" dur="7s" begin="6.03s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="124" r="30" fill="#0F1733" stroke="#22D3EE" stroke-width="1.8"/>
+    <g transform="translate(1088 112) scale(1)" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"/><path d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/></g>
+    <text x="1100" y="74" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">07</text>
+    <text x="1100" y="186" text-anchor="middle" font-size="15" font-weight="600" fill="#EEF1FA">Production</text>
+    <text x="1100" y="206" text-anchor="middle" font-size="14" fill="#A6AFCF">ready apps</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="248.5" rx="21.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>

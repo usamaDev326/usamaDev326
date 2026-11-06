@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none" role="img">
+<title>usamaDev326 top languages</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="240" rx="22"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <clipPath id="barClip"><rect x="32" y="96" width="1136" height="14" rx="7"/></clipPath>
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}.grow{transform-origin:32px 0;animation:grow 1.2s cubic-bezier(.2,.8,.2,1) both}.fill{transform-box:fill-box;transform-origin:0 0;animation:grow 1.2s .2s cubic-bezier(.2,.8,.2,1) both}@keyframes grow{from{transform:scaleX(0)}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#dots)"/>
+  <circle cx="72" cy="0" r="216" fill="#7C3AED" opacity=".26" filter="url(#blur)"/><circle cx="1152" cy="240" r="216" fill="#0891B2" opacity=".22" filter="url(#blur)"/>
+  
+  <text x="32" y="52" font-size="16" font-weight="600" fill="#EEF1FA">Languages</text>
+  <text x="32" y="72" class="mono" font-size="11.5" fill="#6B7699">by bytes of code across public repos</text>
+  <text x="1168" y="58" text-anchor="end" class="mono" font-size="12" fill="#6B7699">14 repos analysed</text>
+  <g clip-path="url(#barClip)"><g class="grow"><rect x="32.0" y="96" width="568.4" height="14" fill="#F1E05A"/><rect x="600.4" y="96" width="206.8" height="14" fill="#8F6BD1"/><rect x="807.2" y="96" width="145.9" height="14" fill="#E34C26"/><rect x="953.2" y="96" width="92.2" height="14" fill="#C6538C"/><rect x="1045.4" y="96" width="67.2" height="14" fill="#3178C6"/><rect x="1112.6" y="96" width="55.4" height="14" fill="#38BDF8"/></g></g>
+  <circle cx="39" cy="145" r="6" fill="#F1E05A"/>
+      <text x="54" y="150" font-size="15" fill="#EEF1FA">JavaScript</text>
+      <text x="392" y="150" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">50.0%</text>
+      <rect x="54" y="160" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="54" y="160" width="169.1" height="3" rx="1.5" fill="#F1E05A" class="fill"/><circle cx="425" cy="145" r="6" fill="#8F6BD1"/>
+      <text x="440" y="150" font-size="15" fill="#EEF1FA">CSS</text>
+      <text x="778" y="150" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">18.2%</text>
+      <rect x="440" y="160" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="440" y="160" width="61.5" height="3" rx="1.5" fill="#8F6BD1" class="fill"/><circle cx="811" cy="145" r="6" fill="#E34C26"/>
+      <text x="826" y="150" font-size="15" fill="#EEF1FA">HTML</text>
+      <text x="1164" y="150" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">12.8%</text>
+      <rect x="826" y="160" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="826" y="160" width="43.4" height="3" rx="1.5" fill="#E34C26" class="fill"/><circle cx="39" cy="191" r="6" fill="#C6538C"/>
+      <text x="54" y="196" font-size="15" fill="#EEF1FA">SCSS</text>
+      <text x="392" y="196" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">8.1%</text>
+      <rect x="54" y="206" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="54" y="206" width="27.4" height="3" rx="1.5" fill="#C6538C" class="fill"/><circle cx="425" cy="191" r="6" fill="#3178C6"/>
+      <text x="440" y="196" font-size="15" fill="#EEF1FA">TypeScript</text>
+      <text x="778" y="196" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">5.9%</text>
+      <rect x="440" y="206" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="440" y="206" width="20.0" height="3" rx="1.5" fill="#3178C6" class="fill"/><circle cx="811" cy="191" r="6" fill="#38BDF8"/>
+      <text x="826" y="196" font-size="15" fill="#EEF1FA">Less</text>
+      <text x="1164" y="196" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">4.9%</text>
+      <rect x="826" y="206" width="338" height="3" rx="1.5" fill="#1F2B52"/>
+      <rect x="826" y="206" width="16.5" height="3" rx="1.5" fill="#38BDF8" class="fill"/>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="238.5" rx="21.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>

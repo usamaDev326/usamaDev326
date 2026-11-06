@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" fill="none" role="img">
+<title>Thanks for visiting</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="220" rx="22"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="wv1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED" stop-opacity="0.35"/><stop offset="1" stop-color="#2A78D6" stop-opacity="0.35"/></linearGradient><linearGradient id="wv2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2A78D6" stop-opacity="0.35"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.35"/></linearGradient><linearGradient id="wv3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6" stop-opacity="0.5"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0.5"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}.w1{animation:wv 18s linear infinite}.w2{animation:wv 26s linear infinite reverse}.w3{animation:wv 14s linear infinite}
+    @keyframes wv{from{transform:translateX(0)}to{transform:translateX(-1200px)}}</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="220" fill="url(#dots)"/>
+  <circle cx="72" cy="0" r="198" fill="#7C3AED" opacity=".26" filter="url(#blur)"/><circle cx="1152" cy="220" r="198" fill="#0891B2" opacity=".22" filter="url(#blur)"/>
+  
+  <g class="w1"><path d="M0 168q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0q75 -16 150 0t150 0V220H0Z" fill="url(#wv1)"/></g>
+  <g class="w2"><path d="M0 182q100 -12 200 0t200 0q100 -12 200 0t200 0q100 -12 200 0t200 0q100 -12 200 0t200 0q100 -12 200 0t200 0q100 -12 200 0t200 0V220H0Z" fill="url(#wv2)"/></g>
+  <g class="w3"><path d="M0 196q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0q60 -9 120 0t120 0V220H0Z" fill="url(#wv3)"/></g>
+  <text x="600" y="78" text-anchor="middle" font-size="34" font-weight="800" letter-spacing="-.5" fill="url(#brand)">Thanks for visiting</text>
+  <text x="600" y="112" text-anchor="middle" font-size="17" fill="#A6AFCF">Building useful software, one feature at a time.</text>
+  <text x="600" y="142" text-anchor="middle" class="mono" font-size="12" fill="#6B7699">made with hand-built svg · node · a daily github workflow</text>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="218.5" rx="21.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="340" viewBox="0 0 600 340" fill="none" role="img">
+<title>Student Management System</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1124"/><stop offset="1" stop-color="#060914"/></linearGradient>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5CF6" stop-opacity=".6"/><stop offset=".45" stop-color="#1F2B52" stop-opacity=".7"/><stop offset="1" stop-color="#22D3EE" stop-opacity=".5"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#fff" fill-opacity=".055"/></pattern>
+  <clipPath id="clip"><rect width="600" height="340" rx="20"/></clipPath>
+  <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="48"/></filter>
+  
+  <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="brandV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FB7185"/><stop offset="1" stop-color="#FB7185" stop-opacity="0"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif}.mono{font-family:'JetBrains Mono', 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}</style>
+<g clip-path="url(#clip)">
+  <rect width="600" height="340" fill="url(#bg)"/>
+  <rect width="600" height="340" fill="url(#dots)"/>
+  
+  
+  <circle cx="540" cy="0" r="170" fill="#FB7185" opacity=".16" filter="url(#blur)"/>
+  <rect width="600" height="4" fill="url(#accent)"/>
+  <rect x="32" y="34" width="56" height="56" rx="16" fill="#FB7185" fill-opacity=".12" stroke="#FB7185" stroke-opacity=".45"/>
+  <g transform="translate(46 48) scale(1.1666666666666667)" fill="none" stroke="#FB7185" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21.42 10.92a1 1 0 0 0-.02-1.84L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.83l8.57 3.91a2 2 0 0 0 1.66 0z"/><path d="M22 10v6M6 12.5V16a6 3 0 0 0 12 0v-3.5"/></g>
+  <text x="106" y="64" font-size="22" font-weight="700" fill="#EEF1FA">Student Management System</text>
+  <g transform="translate(106 78) scale(0.5833333333333334)" fill="none" stroke="#6B7699" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g><text x="126" y="90" class="mono" font-size="13" fill="#6B7699">client work · private</text>
+  <rect x="491.2" y="34" width="76.8" height="24" rx="12" fill="#FB7185" fill-opacity=".1" stroke="#FB7185" stroke-opacity=".35"/>
+  <text x="529.6" y="50" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#FB7185">PLATFORM</text>
+  <text x="32" y="140" font-size="16" fill="#A6AFCF">Platform for handling student information and administrative</text><text x="32" y="164" font-size="16" fill="#A6AFCF">workflows.</text>
+  <g transform="translate(32 190)">
+    <rect width="125" height="26" rx="13" fill="#FB7185" fill-opacity=".1" stroke="#FB7185" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92">Student records</text>
+  </g><g transform="translate(164 190)">
+    <rect width="114" height="26" rx="13" fill="#FB7185" fill-opacity=".1" stroke="#FB7185" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92">Administration</text>
+  </g>
+  <path d="M32 276H568" stroke="#1F2B52"/>
+  <g transform="translate(32 292)">
+    <rect width="84" height="26" rx="13" fill="#94A3B8" fill-opacity=".1" stroke="#94A3B8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92" class="mono">React.js</text>
+  </g><g transform="translate(123 292)">
+    <rect width="55" height="26" rx="13" fill="#94A3B8" fill-opacity=".1" stroke="#94A3B8" stroke-opacity=".38"/>
+    
+    <text x="13" y="17.32" font-size="12" fill="#EEF1FA" fill-opacity=".92" class="mono">.NET</text>
+  </g>
+  <text x="568" y="310" text-anchor="end" class="mono" font-size="13" fill="#6B7699">in production</text>
+</g>
+<rect x=".75" y=".75" width="598.5" height="338.5" rx="19.25" stroke="url(#border)" stroke-width="1.5"/>
+</svg>
