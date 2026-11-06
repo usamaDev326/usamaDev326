@@ -70,14 +70,14 @@ I'm a **Web & Mobile App Developer** with **3+ years of professional experience*
 <a name="stack"></a>
 <img src="./assets/section-stack.svg" width="100%" alt="02 — Tech Stack" />
 
-<img src="./assets/stack-orbit.svg" width="100%" alt="React at the core, orbited by Next.js, React Native, Vue.js, TypeScript, JavaScript and Python, then Redux, Context API, Hooks, REST APIs, Auth and Postman, then Tailwind, Sass, Material UI, Ant Design, PrimeReact, Bootstrap, jQuery, Git, GitHub and AWS." />
+<img src="./assets/stack-orbit.svg" width="100%" alt="React at the core, orbited by Next.js, React Native, Vue.js, TypeScript, JavaScript and Python, then Redux, Context API, Zustand, Pinia, Hooks, REST APIs, Auth and Postman, then Tailwind, Sass, Material UI, Ant Design, PrimeReact, Bootstrap, jQuery, Git, GitHub, AWS and Linux." />
 
 <table>
 <tr>
 <td align="center" width="25%"><b>Frontend</b><br /><br /><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&perline=4" alt="React, Next.js, TypeScript, JavaScript" /><br /><img src="https://skillicons.dev/icons?i=vue,html,css,jquery&perline=4" alt="Vue.js, HTML, CSS, jQuery" /></td>
 <td align="center" width="25%"><b>Styling & UI kits</b><br /><br /><img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&perline=4" alt="Tailwind, Sass, Bootstrap, Material UI" /><br /><br /><img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" /> <img src="https://img.shields.io/badge/PrimeReact-06B6D4?style=flat-square&logo=primereact&logoColor=white" alt="PrimeReact" /></td>
-<td align="center" width="25%"><b>State & data</b><br /><br /><img src="https://skillicons.dev/icons?i=redux&perline=4" alt="Redux" /><br /><br /><sub>Context API · Hooks · REST APIs · Auth</sub></td>
-<td align="center" width="25%"><b>Tools, cloud & more</b><br /><br /><img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" alt="Git, GitHub, Postman" /><br /><img src="https://skillicons.dev/icons?i=python,aws&perline=4" alt="Python, AWS" /><br /><br /><sub>Insomnia · Debugging · Code review</sub></td>
+<td align="center" width="25%"><b>State & data</b><br /><br /><img src="https://skillicons.dev/icons?i=redux,pinia&perline=4" alt="Redux, Pinia" /><br /><br /><img src="https://img.shields.io/badge/Context_API-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="Context API" /> <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white&label=%F0%9F%90%BB" alt="Zustand" /><br /><br /><sub>Hooks · REST APIs · Auth</sub></td>
+<td align="center" width="25%"><b>Tools, cloud & more</b><br /><br /><img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" alt="Git, GitHub, Postman" /><br /><img src="https://skillicons.dev/icons?i=python,aws,linux&perline=4" alt="Python, AWS, Linux" /><br /><br /><sub>Insomnia · Debugging · Code review</sub></td>
 </tr>
 </table>
 

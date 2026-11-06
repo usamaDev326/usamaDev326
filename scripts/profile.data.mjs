@@ -22,8 +22,8 @@ export const highlights = [
 
 export const stackRings = [
   { name: 'frameworks', color: '#22D3EE', dur: 30, items: ['Next.js', 'React Native', 'Vue.js', 'TypeScript', 'JavaScript', 'Python'] },
-  { name: 'state & data', color: '#A78BFA', dur: 46, items: ['Redux', 'Context API', 'React Hooks', 'REST APIs', 'Authentication', 'Postman'] },
-  { name: 'ui, cloud & tooling', color: '#60A5FA', dur: 70, items: ['Tailwind CSS', 'Sass', 'Material UI', 'Ant Design', 'PrimeReact', 'Bootstrap', 'jQuery', 'Git', 'GitHub', 'AWS', 'HTML5 · CSS3'] },
+  { name: 'state & data', color: '#A78BFA', dur: 46, items: ['Redux', 'Context API', 'Zustand', 'Pinia', 'React Hooks', 'REST APIs', 'Authentication', 'Postman'] },
+  { name: 'ui, cloud & tooling', color: '#60A5FA', dur: 70, items: ['Tailwind CSS', 'Sass', 'Material UI', 'Ant Design', 'PrimeReact', 'Bootstrap', 'jQuery', 'Git', 'GitHub', 'AWS', 'Linux', 'HTML5 · CSS3'] },
 ];
 
 export const experience = [

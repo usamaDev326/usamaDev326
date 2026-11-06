@@ -66,32 +66,44 @@
         <circle cx="-23" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-13" y="4.5" font-size="13" fill="#EEF1FA">Redux</text>
       </g><g>
-        <animateMotion dur="46s" begin="-7.67s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-7.67s" repeatCount="indefinite"/>
+        <animateMotion dur="46s" begin="-5.75s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-5.75s" repeatCount="indefinite"/>
         <rect x="-58" y="-15" width="116" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
         <circle cx="-45" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-35" y="4.5" font-size="13" fill="#EEF1FA">Context API</text>
       </g><g>
-        <animateMotion dur="46s" begin="-15.33s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-15.33s" repeatCount="indefinite"/>
+        <animateMotion dur="46s" begin="-11.5s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-11.5s" repeatCount="indefinite"/>
+        <rect x="-43" y="-15" width="86" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
+        <circle cx="-30" cy="0" r="3.5" fill="#A78BFA"/>
+        <text x="-20" y="4.5" font-size="13" fill="#EEF1FA">Zustand</text>
+      </g><g>
+        <animateMotion dur="46s" begin="-17.25s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-17.25s" repeatCount="indefinite"/>
+        <rect x="-32" y="-15" width="64" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
+        <circle cx="-19" cy="0" r="3.5" fill="#A78BFA"/>
+        <text x="-9" y="4.5" font-size="13" fill="#EEF1FA">Pinia</text>
+      </g><g>
+        <animateMotion dur="46s" begin="-23s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-23s" repeatCount="indefinite"/>
         <rect x="-56.5" y="-15" width="113" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
         <circle cx="-43.5" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-33.5" y="4.5" font-size="13" fill="#EEF1FA">React Hooks</text>
       </g><g>
-        <animateMotion dur="46s" begin="-23s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-23s" repeatCount="indefinite"/>
+        <animateMotion dur="46s" begin="-28.75s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-28.75s" repeatCount="indefinite"/>
         <rect x="-52.5" y="-15" width="105" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
         <circle cx="-39.5" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-29.5" y="4.5" font-size="13" fill="#EEF1FA">REST APIs</text>
       </g><g>
-        <animateMotion dur="46s" begin="-30.67s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-30.67s" repeatCount="indefinite"/>
+        <animateMotion dur="46s" begin="-34.5s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-34.5s" repeatCount="indefinite"/>
         <rect x="-65" y="-15" width="130" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
         <circle cx="-52" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-42" y="4.5" font-size="13" fill="#EEF1FA">Authentication</text>
       </g><g>
-        <animateMotion dur="46s" begin="-38.33s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-38.33s" repeatCount="indefinite"/>
+        <animateMotion dur="46s" begin="-40.25s" repeatCount="indefinite" path="M235 250a365 138 0 1 0 730 0a365 138 0 1 0 -730 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="46s" begin="-40.25s" repeatCount="indefinite"/>
         <rect x="-45" y="-15" width="90" height="30" rx="15" fill="#0F1733" stroke="#A78BFA" stroke-opacity=".6"/>
         <circle cx="-32" cy="0" r="3.5" fill="#A78BFA"/>
         <text x="-22" y="4.5" font-size="13" fill="#EEF1FA">Postman</text>
@@ -102,62 +114,68 @@
         <circle cx="-45" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-35" y="4.5" font-size="13" fill="#EEF1FA">Tailwind CSS</text>
       </g><g>
-        <animateMotion dur="70s" begin="-6.36s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-6.36s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-5.83s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-5.83s" repeatCount="indefinite"/>
         <rect x="-32" y="-15" width="64" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-19" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-9" y="4.5" font-size="13" fill="#EEF1FA">Sass</text>
       </g><g>
-        <animateMotion dur="70s" begin="-12.73s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-12.73s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-11.67s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-11.67s" repeatCount="indefinite"/>
         <rect x="-54.5" y="-15" width="109" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-41.5" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-31.5" y="4.5" font-size="13" fill="#EEF1FA">Material UI</text>
       </g><g>
-        <animateMotion dur="70s" begin="-19.09s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-19.09s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-17.5s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-17.5s" repeatCount="indefinite"/>
         <rect x="-51" y="-15" width="102" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-38" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-28" y="4.5" font-size="13" fill="#EEF1FA">Ant Design</text>
       </g><g>
-        <animateMotion dur="70s" begin="-25.45s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-25.45s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-23.33s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-23.33s" repeatCount="indefinite"/>
         <rect x="-54.5" y="-15" width="109" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-41.5" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-31.5" y="4.5" font-size="13" fill="#EEF1FA">PrimeReact</text>
       </g><g>
-        <animateMotion dur="70s" begin="-31.82s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-31.82s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-29.17s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-29.17s" repeatCount="indefinite"/>
         <rect x="-50.5" y="-15" width="101" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-37.5" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-27.5" y="4.5" font-size="13" fill="#EEF1FA">Bootstrap</text>
       </g><g>
-        <animateMotion dur="70s" begin="-38.18s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-38.18s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-35s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-35s" repeatCount="indefinite"/>
         <rect x="-39.5" y="-15" width="79" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-26.5" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-16.5" y="4.5" font-size="13" fill="#EEF1FA">jQuery</text>
       </g><g>
-        <animateMotion dur="70s" begin="-44.55s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-44.55s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-40.83s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-40.83s" repeatCount="indefinite"/>
         <rect x="-27" y="-15" width="54" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-14" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-4" y="4.5" font-size="13" fill="#EEF1FA">Git</text>
       </g><g>
-        <animateMotion dur="70s" begin="-50.91s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-50.91s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-46.67s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-46.67s" repeatCount="indefinite"/>
         <rect x="-38.5" y="-15" width="77" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-25.5" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-15.5" y="4.5" font-size="13" fill="#EEF1FA">GitHub</text>
       </g><g>
-        <animateMotion dur="70s" begin="-57.27s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-57.27s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-52.5s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-52.5s" repeatCount="indefinite"/>
         <rect x="-31" y="-15" width="62" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-18" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-8" y="4.5" font-size="13" fill="#EEF1FA">AWS</text>
       </g><g>
-        <animateMotion dur="70s" begin="-63.64s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
-        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-63.64s" repeatCount="indefinite"/>
+        <animateMotion dur="70s" begin="-58.33s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-58.33s" repeatCount="indefinite"/>
+        <rect x="-34" y="-15" width="68" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
+        <circle cx="-21" cy="0" r="3.5" fill="#60A5FA"/>
+        <text x="-11" y="4.5" font-size="13" fill="#EEF1FA">Linux</text>
+      </g><g>
+        <animateMotion dur="70s" begin="-64.17s" repeatCount="indefinite" path="M80 250a520 196 0 1 0 1040 0a520 196 0 1 0 -1040 0"/>
+        <animate attributeName="opacity" values="1;1;.38;1" keyTimes="0;.5;.75;1" dur="70s" begin="-64.17s" repeatCount="indefinite"/>
         <rect x="-63" y="-15" width="126" height="30" rx="15" fill="#0F1733" stroke="#60A5FA" stroke-opacity=".6"/>
         <circle cx="-50" cy="0" r="3.5" fill="#60A5FA"/>
         <text x="-40" y="4.5" font-size="13" fill="#EEF1FA">HTML5 · CSS3</text>
