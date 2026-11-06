@@ -105,7 +105,7 @@ function hero() {
 function sectionHeader(s, i) {
   const W = 1200, H = 100;
   const n = String(i + 1).padStart(2, '0');
-  const lx = Math.round(80 + tw(s.title, 34) * 1.08 + 28);
+  const lx = Math.round(66 + tw(s.title, 34) * 1.08 + 28);
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" fill="none" role="img">
 <title>${esc(s.title)}</title>
 <defs>
@@ -115,10 +115,10 @@ function sectionHeader(s, i) {
   <clipPath id="lane"><rect x="${lx}" y="64" width="${W - lx}" height="8"/></clipPath>
 </defs>
 <style>text{font-family:${SANS}}.mono{font-family:${MONO}}</style>
-<rect x="1" y="22" width="58" height="58" rx="17" fill="#7C3AED" fill-opacity=".08" stroke="url(#deep)" stroke-width="1.5"/>
-<text x="30" y="58" text-anchor="middle" class="mono" font-size="20" font-weight="700" fill="url(#deep)">${n}</text>
-<text x="80" y="44" class="mono" font-size="13" letter-spacing="2.5" fill="#8B949E">// ${esc(s.kicker.toUpperCase())} — ${esc(s.note)}</text>
-<text x="79" y="82" font-size="34" font-weight="700" letter-spacing="-.5" fill="url(#deep)">${esc(s.title)}</text>
+<circle cx="24" cy="60" r="22" fill="#7C3AED" fill-opacity=".08" stroke="url(#deep)" stroke-width="1.5"/>
+<text x="24" y="65.5" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#deep)">${n}</text>
+<text x="66" y="44" class="mono" font-size="13" letter-spacing="2.5" fill="#8B949E">// ${esc(s.kicker.toUpperCase())} — ${esc(s.note)}</text>
+<text x="65" y="82" font-size="34" font-weight="700" letter-spacing="-.5" fill="url(#deep)">${esc(s.title)}</text>
 <path d="M${lx} 68.5H${W - 4}" stroke="url(#rule)" stroke-width="1.5"/>
 <g clip-path="url(#lane)"><rect y="67" width="160" height="3" rx="1.5" fill="url(#comet)"><animate attributeName="x" from="${lx - 160}" to="${W}" dur="4s" begin="${(i * 0.37).toFixed(2)}s" repeatCount="indefinite"/></rect></g>
 </svg>`;
