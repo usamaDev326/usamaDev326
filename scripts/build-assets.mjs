@@ -103,7 +103,7 @@ function hero() {
 
 /* ---------------- Section headers ---------------- */
 function sectionHeader(s, i) {
-  const W = 1200, H = 100;
+  const W = 1200, H = 80;
   const n = String(i + 1).padStart(2, '0');
   const lx = Math.round(66 + tw(s.title, 34) * 1.08 + 28);
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" fill="none" role="img">
@@ -112,15 +112,14 @@ function sectionHeader(s, i) {
   <linearGradient id="deep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C3AED"/><stop offset=".55" stop-color="#2A78D6"/><stop offset="1" stop-color="#0E9FB8"/></linearGradient>
   <linearGradient id="comet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2A78D6" stop-opacity="0"/><stop offset=".8" stop-color="#22D3EE"/><stop offset="1" stop-color="#fff"/></linearGradient>
   <linearGradient id="rule" x1="${lx}" y1="0" x2="${W}" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#8B949E" stop-opacity=".5"/><stop offset="1" stop-color="#8B949E" stop-opacity="0"/></linearGradient>
-  <clipPath id="lane"><rect x="${lx}" y="64" width="${W - lx}" height="8"/></clipPath>
+  <clipPath id="lane"><rect x="${lx}" y="36" width="${W - lx}" height="8"/></clipPath>
 </defs>
 <style>text{font-family:${SANS}}.mono{font-family:${MONO}}</style>
-<circle cx="24" cy="60" r="22" fill="#7C3AED" fill-opacity=".08" stroke="url(#deep)" stroke-width="1.5"/>
-<text x="24" y="65.5" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#deep)">${n}</text>
-<text x="66" y="44" class="mono" font-size="13" letter-spacing="2.5" fill="#8B949E">// ${esc(s.kicker.toUpperCase())} — ${esc(s.note)}</text>
-<text x="65" y="82" font-size="34" font-weight="700" letter-spacing="-.5" fill="url(#deep)">${esc(s.title)}</text>
-<path d="M${lx} 68.5H${W - 4}" stroke="url(#rule)" stroke-width="1.5"/>
-<g clip-path="url(#lane)"><rect y="67" width="160" height="3" rx="1.5" fill="url(#comet)"><animate attributeName="x" from="${lx - 160}" to="${W}" dur="4s" begin="${(i * 0.37).toFixed(2)}s" repeatCount="indefinite"/></rect></g>
+<circle cx="24" cy="40" r="22" fill="#7C3AED" fill-opacity=".08" stroke="url(#deep)" stroke-width="1.5"/>
+<text x="24" y="45.5" text-anchor="middle" class="mono" font-size="15" font-weight="700" fill="url(#deep)">${n}</text>
+<text x="65" y="52" font-size="34" font-weight="700" letter-spacing="-.5" fill="url(#deep)">${esc(s.title)}</text>
+<path d="M${lx} 40.5H${W - 4}" stroke="url(#rule)" stroke-width="1.5"/>
+<g clip-path="url(#lane)"><rect y="39" width="160" height="3" rx="1.5" fill="url(#comet)"><animate attributeName="x" from="${lx - 160}" to="${W}" dur="4s" begin="${(i * 0.37).toFixed(2)}s" repeatCount="indefinite"/></rect></g>
 </svg>`;
   write(`section-${s.id}.svg`, svg);
 }
