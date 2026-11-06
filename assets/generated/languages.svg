@@ -20,7 +20,7 @@
   <text x="32" y="52" font-size="16" font-weight="600" fill="#EEF1FA">Languages</text>
   <text x="32" y="72" class="mono" font-size="11.5" fill="#6B7699">by bytes of code across public repos</text>
   <text x="1168" y="58" text-anchor="end" class="mono" font-size="12" fill="#6B7699">14 repos analysed</text>
-  <g clip-path="url(#barClip)"><g class="grow"><rect x="32.0" y="96" width="575.4" height="14" fill="#F1E05A"/><rect x="607.4" y="96" width="204.3" height="14" fill="#8F6BD1"/><rect x="811.7" y="96" width="144.1" height="14" fill="#E34C26"/><rect x="955.8" y="96" width="91.1" height="14" fill="#C6538C"/><rect x="1046.9" y="96" width="66.4" height="14" fill="#3178C6"/><rect x="1113.3" y="96" width="54.7" height="14" fill="#38BDF8"/></g></g>
+  <g clip-path="url(#barClip)"><g class="grow"><rect x="32.0" y="96" width="575.4" height="14" fill="#F1E05A"/><rect x="607.4" y="96" width="204.3" height="14" fill="#8F6BD1"/><rect x="811.6" y="96" width="144.1" height="14" fill="#E34C26"/><rect x="955.8" y="96" width="91.1" height="14" fill="#C6538C"/><rect x="1046.9" y="96" width="66.4" height="14" fill="#3178C6"/><rect x="1113.3" y="96" width="54.7" height="14" fill="#38BDF8"/></g></g>
   <circle cx="39" cy="145" r="6" fill="#F1E05A"/>
       <text x="54" y="150" font-size="15" fill="#EEF1FA">JavaScript</text>
       <text x="392" y="150" text-anchor="end" class="mono" font-size="13" fill="#A6AFCF">50.6%</text>
